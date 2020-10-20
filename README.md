@@ -1,3 +1,7 @@
+<h4 align="center"> 
+	:construction: NextLevelWeek 3.0 🚀 In progress...:construction:
+</h4>
+
 # NLW3-happy
 Projeto construído durante o Next Level Week 3
 
