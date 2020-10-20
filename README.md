@@ -36,9 +36,9 @@ NLW is a practical week with lots of code, challenges, networking and a single o
 ### Days
 - 1º Dia: Acelerando sua evolução 12/10 - :heavy_check_mark:
 - 2º Dia: Olhando as oportunidades 13/10 - :heavy_check_mark:
-- 3º Dia: A escolha da Stack 14/10 - :construction:
-- 4º Dia: Até 2 anos em 2 meses 15/10 - :construction:
-- 5º Dia: Milha extra 16/10 - :construction:
+- 3º Dia: A escolha da Stack 14/10 - :heavy_check_mark:
+- 4º Dia: Até 2 anos em 2 meses 15/10 - :heavy_check_mark:
+- 5º Dia: Milha extra 16/10 - :heavy_check_mark:
 
 ## 💻 Project
 
@@ -47,12 +47,6 @@ That aims to connect people to orphanages that allow to make a children's day mo
 
 Acesse project [Netlify](https://happy-fredericoespeschit.netlify.app/)
 
-## 📸 Screenshots
-Click to expand.<br>
-<img src="https://github.com/fredericoespeschit/happy/blob/main/public/happy-print1.png" width="49%"/>
-<img src="https://github.com/fredericoespeschit/happy/blob/main/public/happy-print2.png" width="49%"/>
-<img src="https://github.com/fredericoespeschit/happy/blob/main/public/happy-print3.png" width="49%"/>
-
 ## :rocket: Technologies
 
 This project was developed with the following technologies:
@@ -60,6 +54,9 @@ This project was developed with the following technologies:
 - [JavaScript]
 - [HTML5]
 - [CSS3]
+- [ReactJS]
+- [React-Native]
+- [NodeJS]
 
 
 ## 🔖 Layout
