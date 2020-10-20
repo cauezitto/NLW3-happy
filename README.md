@@ -29,18 +29,44 @@
 
 </p>
 
-# NLW3-happy
-Projeto construído durante o Next Level Week 3
+## :information_source: What's Next Level Week?
 
-## Installation
+NLW is a practical week with lots of code, challenges, networking and a single objective: to take you to the next level. 
 
-Go to directories: web, back-end and mobile 
+### Days
+- 1º Dia: Acelerando sua evolução 12/10 - :heavy_check_mark:
+- 2º Dia: Olhando as oportunidades 13/10 - :heavy_check_mark:
+- 3º Dia: A escolha da Stack 14/10 - :construction:
+- 4º Dia: Até 2 anos em 2 meses 15/10 - :construction:
+- 5º Dia: Milha extra 16/10 - :construction:
 
-run this
+## 💻 Project
 
-```bash
-npm install
-```
+Happy is a project developed based on Children's Day. 
+That aims to connect people to orphanages that allow to make a children's day more special.
 
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
+Acesse project [Netlify](https://happy-fredericoespeschit.netlify.app/)
+
+## 📸 Screenshots
+Click to expand.<br>
+<img src="https://github.com/fredericoespeschit/happy/blob/main/public/happy-print1.png" width="49%"/>
+<img src="https://github.com/fredericoespeschit/happy/blob/main/public/happy-print2.png" width="49%"/>
+<img src="https://github.com/fredericoespeschit/happy/blob/main/public/happy-print3.png" width="49%"/>
+
+## :rocket: Technologies
+
+This project was developed with the following technologies:
+
+- [JavaScript]
+- [HTML5]
+- [CSS3]
+
+
+## 🔖 Layout
+
+To access the layout use [Figma](https://www.figma.com/file/wHQ5kxaib5CbDS6o2XaIXU/Happy-Web-Copy?node-id=0%3A1).
+
+## :memo: License
+
+This project is under the MIT license. See the [LICENSE](https://github.com/fredericoespeschit/happy/blob/master/LICENSE) for details.
+
