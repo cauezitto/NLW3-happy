@@ -1,5 +1,5 @@
 <h4 align="center"> 
-	:construction: NextLevelWeek 3.0 🚀 In progress...:construction:
+	:heavy_check_mark: NextLevelWeek 3.0 🚀 Done!!!!:heavy_check_mark:
 </h4>
 
 <p align="center">	
@@ -47,16 +47,15 @@ That aims to connect people to orphanages that allow to make a children's day mo
 
 Acesse project [Netlify](https://happy-fredericoespeschit.netlify.app/)
 
-## :rocket: Technologies
+### 🛠 Technologies
 
-This project was developed with the following technologies:
+The following tools were used in the construction of the project:
 
-- [JavaScript]
-- [HTML5]
-- [CSS3]
-- [ReactJS]
-- [React-Native]
-- [NodeJS]
+- [Expo](https://expo.io/)
+- [Node.js](https://nodejs.org/en/)
+- [React](https://pt-br.reactjs.org/)
+- [React Native](https://reactnative.dev/)
+- [TypeScript](https://www.typescriptlang.org/)
 
 
 ## 🔖 Layout
