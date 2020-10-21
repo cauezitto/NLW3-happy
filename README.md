@@ -45,8 +45,6 @@ NLW is a practical week with lots of code, challenges, networking and a single o
 Happy is a project developed based on Children's Day. 
 That aims to connect people to orphanages that allow to make a children's day more special.
 
-Acesse project [Netlify](https://happy-fredericoespeschit.netlify.app/)
-
 ### 🛠 Technologies
 
 The following tools were used in the construction of the project:
@@ -56,11 +54,6 @@ The following tools were used in the construction of the project:
 - [React](https://pt-br.reactjs.org/)
 - [React Native](https://reactnative.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
-
-
-## 🔖 Layout
-
-To access the layout use [Figma](https://www.figma.com/file/wHQ5kxaib5CbDS6o2XaIXU/Happy-Web-Copy?node-id=0%3A1).
 
 ## :memo: License
 
